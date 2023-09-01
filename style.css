@@ -1,0 +1,14 @@
+*{
+    box-sizing: border-box;
+}
+body{
+    background-color: grey;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+canvas{
+    background-color: black;
+    width: 512px;
+    height: 512px;
+}
